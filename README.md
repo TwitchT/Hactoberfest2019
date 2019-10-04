@@ -44,3 +44,8 @@ Hacktoberfest Classroom Project 2019
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
 ---
+
+### Quoc
+[TwitchT](https://github.com/TwitchT/)
+> Simple doesn't always mean easy
+---
